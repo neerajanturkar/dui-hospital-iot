@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hospital Automation</string>
+    <string name="welcomeActivityTitle">Please scan below QR code in Hospital Connect App</string>
+    <string name="title_activity_general">GeneralActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
